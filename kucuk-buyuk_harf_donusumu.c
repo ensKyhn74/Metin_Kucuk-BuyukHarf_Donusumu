@@ -18,7 +18,7 @@ int main()
   
   if(ch >= 65 && ch <= 90)
   {
-   metin[i] = tolower(metin[i]);
+    metin[i] = tolower(metin[i]);
   }
   
   else if(ch >= 97 && ch <= 122)
